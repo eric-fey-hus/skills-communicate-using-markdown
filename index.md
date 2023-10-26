@@ -2,4 +2,4 @@
 
 ## Header 2
 
-Added two headers in index.md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
